@@ -1,0 +1,14 @@
+{
+	"cars": [
+		{
+			"id": 1,
+			"name": "BMW X3",
+			"imageUrl": "assets/images/cars/car-1.png",
+			"price": 248000,
+			"description": "4 variants | with COE",
+			"brandName": "Performance Motors",
+			"brandLogoUrl": "assets/images/cars/car-brand-1.png",
+			"poa": "$2,302/mo"
+		}
+	]
+}
